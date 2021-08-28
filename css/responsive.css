@@ -119,6 +119,11 @@
 	.heading p{
 		font-size: 14px;
 	}
+	/* Section: Skills */
+	.section-skills .col-md-4 + .col-md-4,
+	.skill + .skill {
+		margin-top: 100px;
+	}
 	.cd-headline.clip span{
 		font-size: 20px;
 	}
